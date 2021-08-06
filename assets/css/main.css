@@ -1,0 +1,54 @@
+body{
+    background: #f1f1f1;
+}
+.cal table tbody{
+    background: #E9E9ED;
+    padding: 6px;
+    border-radius: 15px;
+    box-shadow: 0 0 20px 0px rgb(0 0 0 / 35%);
+}
+iframe{
+    width: 246px;
+    height: 60px;
+}
+button{
+    height: 40px;
+    width: 50px;
+    background: #263238 !important;
+    border: 0 !important;
+    box-shadow: 0 0 10px 0px rgb(0 0 0 / 15%);
+    color: #fff !important;
+    margin: 5px;
+    border-radius: 15px !important;
+    font-weight: 600 !important;
+}
+button:hover{
+    background: #8e8e92 !important;
+    color: #fff !important;
+}
+#op{
+    background: #E8505B !important;
+    color: #fff !important; 
+    font-weight: bold;
+}
+.cal{
+    background: #E8505B;
+    border-radius: 25px 0 0 25px;
+    box-shadow: 0 0 25px 0 rgba(0,0,0,.4);
+    padding-left: 5rem;
+}
+.cal h2{
+    color: #fff;
+}
+.title{
+    color: #333;
+    letter-spacing: 4px;
+}
+.title h1{
+    font-weight: 800;
+}
+.container-fluid{
+    background-image: url('assets/images/texture.png');
+    background-repeat: no-repeat;
+    background-position: top center;
+}
